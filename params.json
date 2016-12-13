@@ -1,6 +1,6 @@
 {
   "name": "Project4",
   "tagline": "",
-  "body": "This project we use sqlite and gcrypt to complete. We use the sqlite to store the password, username and the encrypted message. When the receiver log in, he/she can get the information that the message is waiting, but others who hasn't received the message can't see it. And the message we encrypted it in order that it is getten by others.\r\n\r\nThis is the page to which we log in and choose which function to use\r\n\r\n![](https://github.com/projectforlyz/project4/blob/gh-pages/258332426975384967.png)\r\n\r\nThis is the function we need to choose\r\n\r\n![](https://github.com/projectforlyz/project4/blob/gh-pages/11552714954912338.png)\r\n\r\nThis is how we create the user\r\n\r\n![](https://github.com/projectforlyz/project4/blob/gh-pages/322538139039995877.png)\r\n\r\nThis shows that we have gotten a message\r\n\r\n![](https://github.com/projectforlyz/project4/blob/gh-pages/630289520578861045.png)",
+  "body": "This project we use sqlite and gcrypt to complete. We use the sqlite to store the password, username and the encrypted message. When the receiver log in, he/she can get the information that the message is waiting, but others who hasn't received the message can't see it. And the message we encrypted it in order that it is getten by others.\r\n",
   "note": "Don't delete this file! It's used internally to help with page regeneration."
 }
